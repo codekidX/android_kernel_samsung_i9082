@@ -1,6 +1,10 @@
 android_kernel_samsung_i9082
 ============================
+<<<<<<< HEAD
 	Linux kernel release 3.x <http://kernel.org/>
+=======
+  Linux kernel release 3.x <http://kernel.org/>
+>>>>>>> cef2370728001b12de97b8ee967af20d244d03c2
 
 These are the release notes for Linux version 3.  Read them carefully,
 as they tell you what this is all about, explain how to install the
